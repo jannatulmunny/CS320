@@ -1,1 +1,9 @@
 # CS320
+#How can I ensure that my code, program, or software is functional and secure?
+Ensuring that code, programs, or software are both functional and secure requires a systematic approach. It begins with understanding the functional requirements through clear communication with stakeholders. Once the requirements are understood, thorough testing, including unit testing, integration testing, and system testing, is crucial to verify functionality. Security measures should be integrated throughout the development process, from design to deployment, including input validation, encryption, access controls, and regular security audits. Continuous monitoring and updates are also essential to adapt to evolving threats and ensure ongoing security.
+
+#How do I interpret user needs and incorporate them into a program?
+Interpreting user needs and incorporating them into a program involves active listening, empathy, and clear communication. It's crucial to engage with stakeholders to gather requirements, ask clarifying questions, and ensure a deep understanding of their goals and priorities. User feedback loops, usability testing, and iterative development processes can help refine and improve the program to better meet user needs over time.
+
+#How do I approach designing software?
+Approaching software design involves considering both functional and non-functional requirements, such as scalability, performance, usability, and security. It's essential to start with a clear understanding of the problem domain and user needs, then break down the problem into manageable components and design modular, maintainable, and extensible solutions. Collaboration with other stakeholders, including developers, designers, and end-users, can lead to more robust and user-friendly software designs. Additionally, leveraging design patterns, best practices, and lessons learned from past projects can help inform and guide the design process.
